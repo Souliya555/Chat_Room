@@ -13,6 +13,4 @@
 13/ yarn add merge-graphql-schemas
 14/ yarn add bcrypt
 
-# slack-clone-server
 
-[Watch the video to learn how it was made.](https://youtu.be/BpEw1PNdvkg)
